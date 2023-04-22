@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+pycandy/__init__.py
+pycandy/app.py
+pycandy/audio.py
+pycandy/color.py
+pycandy/graphic.py
+pycandy/gui.py
+pycandy/image.py
+pycandy/text.py
+pycandy.egg-info/PKG-INFO
+pycandy.egg-info/SOURCES.txt
+pycandy.egg-info/dependency_links.txt
+pycandy.egg-info/requires.txt
+pycandy.egg-info/top_level.txt
